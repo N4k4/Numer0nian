@@ -1,8 +1,8 @@
 namespace Numer0nian
 {
-    public partial class Form1 : Form
+    public partial class TopPage : Form
     {
-        public Form1()
+        public TopPage()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace Numer0nian
 {
-    partial class Form1
+    partial class TopPage
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,12 +30,12 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // TopPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.Name = "TopPage";
             this.Text = "Numer0nian";
             this.ResumeLayout(false);
 
