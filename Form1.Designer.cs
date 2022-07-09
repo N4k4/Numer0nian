@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "TopPage";
             this.Text = "Numer0nian";
+            this.Load += new System.EventHandler(this.TopPage_Load);
             this.ResumeLayout(false);
 
         }

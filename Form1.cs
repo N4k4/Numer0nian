@@ -6,5 +6,10 @@ namespace Numer0nian
         {
             InitializeComponent();
         }
+
+        private void TopPage_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
